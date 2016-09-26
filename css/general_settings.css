@@ -1,0 +1,10 @@
+/*
+ * General settings
+ */
+
+
+
+/* Transitions */
+a {
+    transition: all 200ms ease-in;
+}

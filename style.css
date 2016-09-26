@@ -1,0 +1,27 @@
+/*
+Theme Name: DDivi Child Theme - https://github.com/DD-UX/DDivi-Child-Theme
+Description: A custom child theme for DIVI modifications. Make every customization here and update your DIVI without risks. DIVI is brought by https://www.elegantthemes.com/ and this only extends DIVI.
+Author:   Diego Diaz
+Template: Divi
+*/
+
+
+/* Importing DIVI styles */
+@import url("../Divi/style.css");
+
+/* Including Font Awesome CDN */
+@import url("https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css");
+
+/* Set your general settings here */
+@import url("css/general_settings.css");
+
+/* Modify header-related styles here */
+@import url("css/header.css");
+
+/* Modify footer-related styles here */
+@import url("css/footer.css");
+
+/* Create your own CSS helpers here */
+@import url("css/helpers.css");
+
+
