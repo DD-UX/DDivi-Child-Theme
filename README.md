@@ -1,8 +1,9 @@
 # DDivi-Child-Theme
 
 ### Folder Structure:
-<code>
+
 **DDivi Child Theme**
+
   |- style.css  
   |- header.php  
   |- footer.php  
@@ -18,4 +19,3 @@
   | | |- helpers.css  
   | |- js  
   | | |- scripts.js
-</code>
