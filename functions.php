@@ -7,7 +7,7 @@ add_action( 'wp_enqueue_scripts', 'assets_handler', 100 );
 function assets_handler() {
   if (!is_admin()){    
     // Script
-    wp_register_script( 'scripts', get_theme_root_uri().'/DDIVI-Child-Theme/js/scripts.js');
+    wp_register_script( 'scripts', get_theme_root_uri().'/DDivi-Child-Theme/js/scripts.js');
     
     
     // Call Fancybox elements
